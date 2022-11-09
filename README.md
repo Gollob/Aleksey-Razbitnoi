@@ -1,7 +1,7 @@
 ## I'm a Aleksey Razbitnoy "Junior QA Engineer"
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1rxWeRuldq2r7WYbaQye9panlM_N8fqKM/view?usp=sharing)
-[Link to my CV on HH](https://spb.hh.ru/resume/31261410ff0b68863c0039ed1f766e6a5a3644)
+- [Link to my CV](https://drive.google.com/file/d/1rxWeRuldq2r7WYbaQye9panlM_N8fqKM/view?usp=sharing)
+- [Link to my CV on HH](https://spb.hh.ru/resume/31261410ff0b68863c0039ed1f766e6a5a3644)
 
 
 ### Language and Tools
