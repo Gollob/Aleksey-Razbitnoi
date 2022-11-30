@@ -24,6 +24,8 @@
 
 - [Pytest](https://github.com/Gollob/qa_python)
 - [UI tests on Selenium](https://github.com/Gollob/Sprint_3)
+- [UI tests on Selenium с POM и Allure](https://github.com/Gollob/Sprint_4)
+
 
 
 
